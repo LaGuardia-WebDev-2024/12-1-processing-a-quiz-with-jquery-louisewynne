@@ -17,10 +17,10 @@ _Hint:_<br>`$("#trivia-form").on("XXXXX",function(event){`<br>
 `});`
 
 ```
-$("#trivia-form").on("XXXXX",function(event){<br>
-event.preventDefault();<br>
-<br>
-<br>
+$("#trivia-form").on("XXXXX",function(event){
+event.preventDefault();
+
+
 });
 ```
 <br><br>
